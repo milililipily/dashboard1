@@ -225,7 +225,7 @@ ul.sidebar-menu li a.active i {
 
 .wrapper {
     display: inline-block;
-    margin-top: 60px;
+    margin-top: 30px;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
@@ -1082,7 +1082,7 @@ label {
     margin-top: 80px;
     margin-bottom: 40px;
 }
- /*cajas de la parte carta, hashtag, moneda*/
+ /*cajas de la parte de arriba*/
 .box1 {
     padding: 15px;
     text-align: center;
@@ -1137,4 +1137,8 @@ label {
 
 .menu2 span{
     font-size: 30px;
+}
+.videos{
+    margin-top: 40px;
+    margin-right: 0 auto;
 }
