@@ -1,6 +1,6 @@
-*{
+/*{
     outline: 1px solid blue;
-}
+}*/
 @import url(http://fonts.googleapis.com/css?family=Ruda:400,700,900);
 
 body { 
@@ -93,6 +93,7 @@ ul.top-menu > li > .logout li{
 .nav-collapse.collapse {
     display: inline;
 }
+
 
 ul.sidebar-menu , ul.sidebar-menu li ul.sub{
     margin: -2px 0 0;
@@ -262,7 +263,7 @@ a.logo:hover, a.logo:focus {
 }
 
 a.logo span {
-    color: #9c4c9d;
+    color: #FFFFFF;
 }
 /*top menu quiza la parte de arriba*/
 ul.top-menu > li > a {
@@ -1139,6 +1140,8 @@ label {
 {
     color:#FFFFFF;
     font-size: 16px;
+    margin-top: 0px;
+    font-size: 
 }
 
 .menu2 ul li{
