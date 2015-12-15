@@ -54,6 +54,10 @@ ul.top-menu > li > .logout {
 	margin-right: 15px;
 	background: #9c4c9d;
 	margin-top: 15px;
+    height: 50px;
+}
+ul.top-menu > li > .logout li{
+    margin-top: 0 auto;
 }
 
 #sidebar {
@@ -1140,5 +1144,14 @@ label {
 }
 .videos{
     margin-top: 40px;
-    margin-right: 0 auto;
+}
+.videos{
+
+}
+/*panel de costado CANDY*/
+
+.morado{
+background: #9A0E8C;
+height: 70%; 
+width: 100%;
 }
