@@ -60,6 +60,11 @@ ul.top-menu > li > .logout li{
     margin-top: 0 auto;
 }
 
+.avatar{
+    height: 100px;
+    position: relative;
+    border-radius: 50%;
+}
 #sidebar {
     width: 210px;
     height: 100%;
@@ -95,7 +100,7 @@ ul.sidebar-menu , ul.sidebar-menu li ul.sub{
 }
 
 ul.sidebar-menu {
-    margin-top: 75px;
+    margin-top: 10px;
 }
 
 #sidebar > ul > li > ul.sub {
@@ -204,6 +209,7 @@ ul.sidebar-menu li a:hover i, ul.sidebar-menu li a:focus i {
 ul.sidebar-menu li a.active i {
     color: #fff;
 }
+
 
 /* MAIN CONTENT CONFIGURATION */
 #main-content {
